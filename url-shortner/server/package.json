@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["url-shortner", "url", "shortner"],
+  "author": "pavan2108",
+  "description": "URL Shortner"
+}
